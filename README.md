@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Firewalls, Load Balancers, VPNs, Proxies, and Python.
 - 📫 How to reach me: 
       [LinkedIn](https://www.linkedin.com/in/clarence-subia-2a75aa163/)
+      [Medium](https://clarencesubia.medium.com/)
       
