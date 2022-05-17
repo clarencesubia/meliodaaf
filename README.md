@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my on-going training in Penetration Testing Professional by eLearnSecurity.
 - 💬 Ask me about Firewalls, Load Balancers, VPNs, Proxies, and Python.
 - 📫 How to reach me: 
-      LinkedIn: https://www.linkedin.com/in/clarence-subia-2a75aa163/
+      [LinkedIn](https://www.linkedin.com/in/clarence-subia-2a75aa163/)
       
