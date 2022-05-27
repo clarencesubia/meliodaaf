@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at CEVA Logistics & CMA CGM as a Senior Network Security Engineer.
+- 🔭 I’m currently working as a Senior Network Security Engineer.
 - 🌱 I’m currently learning Penetration Testing, Python and Bash scripting, Cisco Identity Services Engine, and Network Automations.
 - 👯 I’m looking to collaborate on Python automation projects.
 - 🤔 I’m looking for help with my on-going training in Penetration Testing Professional by eLearnSecurity.
