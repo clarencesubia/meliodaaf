@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as as Senior Network Engineer<br>👯 I’m looking to collaborate on Network Automations<br>🌱 I’m currently learning Python, GO, Ansible<br>💬 Ask me about Firewalls, VPNs, Proxies, Automations
+🔭 I’m currently working as as **Senior Network Engineer**<br>👯 I’m looking to collaborate on **Network Automations**<br>🌱 I’m currently learning **Python, GO, Ansible, Ansible**<br>💬 Ask me about **Firewalls, VPNs, Proxies, Automations**
 
 
 ## 🌐 Socials:
