@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as as **Senior Network Engineer**<br>👯 I’m looking to collaborate on **Network, Cloud, and Security Automations**<br>🌱 I’m currently learning **Python, GO, Ansible, Ansible, Terraform**<br>💬 Ask me about **Automations**
+🔭 I’m currently working as as **Senior Network Engineer**<br>👯 I’m looking to collaborate on **Network, Cloud, and Security Automations**<br>🌱 I’m currently learning **Python, GO, Ansible, Terraform**<br>💬 Ask me about **Automations**
 
 
 ## 🌐 Socials:
